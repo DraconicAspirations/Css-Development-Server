@@ -1,0 +1,95 @@
+L 06/14/2025 - 02:02:52: SourceMod error session started
+L 06/14/2025 - 02:02:52: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250614.log")
+L 06/14/2025 - 02:02:52: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/14/2025 - 02:02:52: [SM] Blaming: match-commands.smx
+L 06/14/2025 - 02:02:52: [SM] Call stack trace:
+L 06/14/2025 - 02:02:52: [SM]   [0] HookEvent
+L 06/14/2025 - 02:02:52: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/14/2025 - 02:02:52: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/14/2025 - 02:02:53: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/14/2025 - 02:02:53: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/14/2025 - 16:51:46: SourceMod error session started
+L 06/14/2025 - 16:51:46: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250614.log")
+L 06/14/2025 - 16:51:46: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/14/2025 - 16:51:46: [SM] Blaming: match-commands.smx
+L 06/14/2025 - 16:51:46: [SM] Call stack trace:
+L 06/14/2025 - 16:51:46: [SM]   [0] HookEvent
+L 06/14/2025 - 16:51:46: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/14/2025 - 16:51:46: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/14/2025 - 16:51:46: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/14/2025 - 16:51:46: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/14/2025 - 17:00:08: SourceMod error session started
+L 06/14/2025 - 17:00:08: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250614.log")
+L 06/14/2025 - 17:00:08: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/14/2025 - 17:00:08: [SM] Blaming: match-commands.smx
+L 06/14/2025 - 17:00:08: [SM] Call stack trace:
+L 06/14/2025 - 17:00:08: [SM]   [0] HookEvent
+L 06/14/2025 - 17:00:08: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/14/2025 - 17:00:08: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/14/2025 - 17:00:08: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/14/2025 - 17:00:08: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/14/2025 - 17:12:55: [SM] Exception reported: Invalid block 1 (blocksize: 1)
+L 06/14/2025 - 17:12:55: [SM] Blaming: autobuy.smx
+L 06/14/2025 - 17:12:55: [SM] Call stack trace:
+L 06/14/2025 - 17:12:55: [SM]   [0] ArrayList.GetString
+L 06/14/2025 - 17:12:55: [SM]   [1] Line 140, /groups/sourcemod/upload_tmp/textGTzIXO.sp::Command_AutoBuy
+L 06/14/2025 - 17:13:09: [SM] Exception reported: Invalid block 1 (blocksize: 1)
+L 06/14/2025 - 17:13:09: [SM] Blaming: autobuy.smx
+L 06/14/2025 - 17:13:09: [SM] Call stack trace:
+L 06/14/2025 - 17:13:09: [SM]   [0] ArrayList.GetString
+L 06/14/2025 - 17:13:09: [SM]   [1] Line 140, /groups/sourcemod/upload_tmp/textGTzIXO.sp::Command_AutoBuy
+L 06/14/2025 - 17:13:11: [SM] Exception reported: Invalid block 1 (blocksize: 1)
+L 06/14/2025 - 17:13:11: [SM] Blaming: autobuy.smx
+L 06/14/2025 - 17:13:12: [SM] Call stack trace:
+L 06/14/2025 - 17:13:12: [SM]   [0] ArrayList.GetString
+L 06/14/2025 - 17:13:12: [SM]   [1] Line 140, /groups/sourcemod/upload_tmp/textGTzIXO.sp::Command_AutoBuy
+L 06/14/2025 - 17:13:12: [SM] Exception reported: Invalid block 1 (blocksize: 1)
+L 06/14/2025 - 17:13:12: [SM] Blaming: autobuy.smx
+L 06/14/2025 - 17:13:12: [SM] Call stack trace:
+L 06/14/2025 - 17:13:13: [SM]   [0] ArrayList.GetString
+L 06/14/2025 - 17:13:13: [SM]   [1] Line 140, /groups/sourcemod/upload_tmp/textGTzIXO.sp::Command_AutoBuy
+L 06/14/2025 - 17:13:13: [SM] Exception reported: Invalid block 1 (blocksize: 1)
+L 06/14/2025 - 17:13:13: [SM] Blaming: autobuy.smx
+L 06/14/2025 - 17:13:13: [SM] Call stack trace:
+L 06/14/2025 - 17:13:13: [SM]   [0] ArrayList.GetString
+L 06/14/2025 - 17:13:13: [SM]   [1] Line 140, /groups/sourcemod/upload_tmp/textGTzIXO.sp::Command_AutoBuy
+L 06/14/2025 - 17:13:15: [SM] Exception reported: Invalid block 1 (blocksize: 1)
+L 06/14/2025 - 17:13:15: [SM] Blaming: autobuy.smx
+L 06/14/2025 - 17:13:15: [SM] Call stack trace:
+L 06/14/2025 - 17:13:15: [SM]   [0] ArrayList.GetString
+L 06/14/2025 - 17:13:15: [SM]   [1] Line 140, /groups/sourcemod/upload_tmp/textGTzIXO.sp::Command_AutoBuy
+L 06/14/2025 - 17:13:15: [SM] Exception reported: Invalid block 1 (blocksize: 1)
+L 06/14/2025 - 17:13:15: [SM] Blaming: autobuy.smx
+L 06/14/2025 - 17:13:15: [SM] Call stack trace:
+L 06/14/2025 - 17:13:15: [SM]   [0] ArrayList.GetString
+L 06/14/2025 - 17:13:15: [SM]   [1] Line 140, /groups/sourcemod/upload_tmp/textGTzIXO.sp::Command_AutoBuy
+L 06/14/2025 - 17:13:15: [SM] Exception reported: Invalid block 1 (blocksize: 1)
+L 06/14/2025 - 17:13:15: [SM] Blaming: autobuy.smx
+L 06/14/2025 - 17:13:15: [SM] Call stack trace:
+L 06/14/2025 - 17:13:15: [SM]   [0] ArrayList.GetString
+L 06/14/2025 - 17:13:15: [SM]   [1] Line 140, /groups/sourcemod/upload_tmp/textGTzIXO.sp::Command_AutoBuy
+L 06/14/2025 - 17:13:16: [SM] Exception reported: Invalid block 1 (blocksize: 1)
+L 06/14/2025 - 17:13:16: [SM] Blaming: autobuy.smx
+L 06/14/2025 - 17:13:16: [SM] Call stack trace:
+L 06/14/2025 - 17:13:16: [SM]   [0] ArrayList.GetString
+L 06/14/2025 - 17:13:16: [SM]   [1] Line 140, /groups/sourcemod/upload_tmp/textGTzIXO.sp::Command_AutoBuy
+L 06/14/2025 - 17:37:17: SourceMod error session started
+L 06/14/2025 - 17:37:17: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250614.log")
+L 06/14/2025 - 17:37:17: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/14/2025 - 17:37:17: [SM] Blaming: match-commands.smx
+L 06/14/2025 - 17:37:17: [SM] Call stack trace:
+L 06/14/2025 - 17:37:17: [SM]   [0] HookEvent
+L 06/14/2025 - 17:37:17: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/14/2025 - 17:37:17: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/14/2025 - 17:37:17: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/14/2025 - 17:37:17: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/14/2025 - 17:53:54: SourceMod error session started
+L 06/14/2025 - 17:53:54: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250614.log")
+L 06/14/2025 - 17:53:54: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/14/2025 - 17:53:54: [SM] Blaming: match-commands.smx
+L 06/14/2025 - 17:53:54: [SM] Call stack trace:
+L 06/14/2025 - 17:53:54: [SM]   [0] HookEvent
+L 06/14/2025 - 17:53:54: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/14/2025 - 17:53:54: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/14/2025 - 17:53:54: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/14/2025 - 17:53:54: [admin-flatfile.smx]  (line 10) Section declared without header

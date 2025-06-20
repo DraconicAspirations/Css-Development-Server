@@ -1,0 +1,39 @@
+<html>
+  <body style="margin:0;padding:0;overflow:hidden;font-family:'Trebuchet MS', Helvetica, sans-serif;">
+
+    <table style="width:100%;margin-top:30px;" cellspacing="20">
+      <tr>
+        <!-- Image Column -->
+        <td style="text-align:center;width:40%;">
+          <img src="https://d.furaffinity.net/art/slushy~pye/1746884088/1746884088.slushy~pye_pye.png"
+               alt="Raptor"
+               style="max-width:100%;height:auto;">
+        </td>
+
+        <!-- Text Column -->
+        <td style="vertical-align:top;text-align:left;color:#ffffff;text-shadow:1px 1px 3px rgba(0,0,0,0.7);">
+
+          <div style="font-size: 45px;">
+            <strong>
+              <span>Welcome to </span>
+              <span style="color:#4fc3f7;">Sammy's Stupid Source Server (SSSS)!</span>
+            </strong>
+          </div>
+
+          <div style="font-size: 30px;margin-top:5px;">
+            <strong>(the punk raptor is not relevant I just thought it looked cool)</strong>
+          </div>
+
+          <hr style="margin:20px 0;width:100%;border:0;border-top:1px solid #ffffff44;">
+
+          <div style="font-size: 30px;">
+            <strong>Tip:</strong> If you haven't already, you can go to https://github.com/DraconicAspirations/CSS-SSSS-Public-Content-Pack to download maps and stuff!<br>
+            <strong>Tip:</strong> If you're dead and there there are bots on the team, you can take control of a surviving bot by pressing <b>E</b>.<br>
+          </div>
+
+        </td>
+      </tr>
+    </table>
+
+  </body>
+</html>

@@ -1,0 +1,109 @@
+L 05/28/2025 - 09:15:54: SourceMod log file session started (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\L20250528.log") (Version "1.12.0.7200")
+L 05/28/2025 - 09:15:54: [mapchooser.smx] Voting for next map has started.
+L 05/28/2025 - 09:15:56: [mapchooser.smx] Voting for next map has finished. Nextmap: de_port.
+L 05/28/2025 - 09:51:57: -------- Mapchange to de_dust2 --------
+L 05/28/2025 - 10:16:31: SourceMod log file session started (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\L20250528.log") (Version "1.12.0.7200")
+L 05/28/2025 - 10:16:31: -------- Mapchange to de_dust2 --------
+L 05/28/2025 - 10:51:46: SourceMod log file session started (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\L20250528.log") (Version "1.12.0.7200")
+L 05/28/2025 - 10:51:46: -------- Mapchange to de_dust2 --------
+L 05/28/2025 - 11:05:10: SourceMod log file session started (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\L20250528.log") (Version "1.12.0.7200")
+L 05/28/2025 - 11:05:10: -------- Mapchange to de_dust2 --------
+L 05/28/2025 - 11:20:44: SourceMod log file session started (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\L20250528.log") (Version "1.12.0.7200")
+L 05/28/2025 - 11:20:44: -------- Mapchange to de_dust2 --------
+L 05/28/2025 - 11:45:40: SourceMod log file session started (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\L20250528.log") (Version "1.12.0.7200")
+L 05/28/2025 - 11:45:40: -------- Mapchange to de_dust2 --------
+L 05/28/2025 - 12:22:45: SourceMod log file session started (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\L20250528.log") (Version "1.12.0.7200")
+L 05/28/2025 - 12:22:45: -------- Mapchange to de_dust2 --------
+L 05/28/2025 - 12:31:30: [mapchooser.smx] Voting for next map has started.
+L 05/28/2025 - 12:32:30: [SM] Changed map to "de_port"
+L 05/28/2025 - 12:32:30: -------- Mapchange to de_port --------
+L 05/28/2025 - 13:10:33: SourceMod log file session started (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\L20250528.log") (Version "1.12.0.7200")
+L 05/28/2025 - 13:10:33: -------- Mapchange to de_dust2 --------
+L 05/28/2025 - 13:24:46: [basechat.smx] "Solnapolis<14><[U:1:22767151]><>" triggered sm_hsay (text "IIIIIIIIIIIIXIIIIIIIII")
+L 05/28/2025 - 13:25:23: [basechat.smx] "Solnapolis<14><[U:1:22767151]><>" triggered sm_hsay (text "[CsNetstat] Ping all /// 192.168.1.132:50984ping 0.50 - Jerry - 16.5ms - IIIIIIIIXIIIIIIIIIIIIping 1.50 - Erik - 16.6ms - IIIIIIIIIXIIIIIIIIIIIping 2.50 - Ted - 39.4ms - IIIIIXIIIIIIIIIIIIII)
+L 05/28/2025 - 13:25:37: [basechat.smx] "Solnapolis<14><[U:1:22767151]><>" triggered sm_hsay (text "I IIIIIIIIIIIXIIIIIIIII IIIIIIIIIIIIXIIIIIIIIIIIIIIIIIIIIIXIIIIIIIIIIIIIIIIIIIIIXIIIIIIIIIIIIIIIIIIIIIXIIIIIIIIIIIIIIIIIIIIIXIIIIIIIII")
+L 05/28/2025 - 13:25:45: [basechat.smx] "Solnapolis<14><[U:1:22767151]><>" triggered sm_hsay (text "sdfsdfs")
+L 05/28/2025 - 13:25:53: [basechat.smx] "Solnapolis<14><[U:1:22767151]><>" triggered sm_hsay (text "sdfsdfs")
+L 05/28/2025 - 13:26:33: [basechat.smx] "Solnapolis<14><[U:1:22767151]><>" triggered sm_hsay (text ""Radar Online\nBot Alpha - 12.3m\nIIIIIIIIIIXIIIIIIIIII"")
+L 05/28/2025 - 13:26:36: [basechat.smx] "Solnapolis<14><[U:1:22767151]><>" triggered sm_hsay (text ""Radar Online\nBot Alpha - 12.3m\nIIIIIIIIIIXIIIIIIIIII")
+L 05/28/2025 - 13:27:12: [basechat.smx] "Solnapolis<14><[U:1:22767151]><>" triggered sm_hsay (text "Line1\nLine2\nLine3")
+L 05/28/2025 - 13:27:16: [basechat.smx] "Solnapolis<14><[U:1:22767151]><>" triggered sm_hsay (text "Line1\nLine2\nLine3")
+L 05/28/2025 - 13:27:58: [mapchooser.smx] Voting for next map has started.
+L 05/28/2025 - 13:31:11: [basechat.smx] "Solnapolis<14><[U:1:22767151]><>" triggered sm_hsay (text "Radar Sweep\n0/2 - Bot Alpha - 12.3m\nIIIIIIIIIIIXIIIIIIIIII")
+L 05/28/2025 - 13:31:26: [basechat.smx] "Solnapolis<14><[U:1:22767151]><>" triggered sm_hsay (text "Radar Sweep\n0/2 - Bot Alpha - 12.3m\nIIIIIIIIIIIXIIIIIIIIII")
+L 05/28/2025 - 13:31:33: [basechat.smx] "Solnapolis<14><[U:1:22767151]><>" triggered sm_hsay (text "Line1\nLine2\nLine3")
+L 05/28/2025 - 13:32:27: [basechat.smx] "Solnapolis<14><[U:1:22767151]><>" triggered sm_hsay (text "Line1\nLine2\nLine3")
+L 05/28/2025 - 13:32:33: [basechat.smx] "Solnapolis<14><[U:1:22767151]><>" triggered sm_hsay (text ""Radar Online\nBot Alpha - 12.3m\nIIIIIIIIIIXIIIIIIIIII")
+L 05/28/2025 - 13:34:00: [basechat.smx] "Solnapolis<14><[U:1:22767151]><>" triggered sm_hsay (text "Line1\nLine2\nLine3")
+L 05/28/2025 - 15:27:20: SourceMod log file session started (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\L20250528.log") (Version "1.12.0.7200")
+L 05/28/2025 - 15:27:20: -------- Mapchange to de_dust2 --------
+L 05/28/2025 - 15:32:26: SourceMod log file session started (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\L20250528.log") (Version "1.12.0.7200")
+L 05/28/2025 - 15:32:26: -------- Mapchange to de_dust2 --------
+L 05/28/2025 - 15:46:04: [mapchooser.smx] Voting for next map has started.
+L 05/28/2025 - 15:47:38: [SM] Changed map to "de_port"
+L 05/28/2025 - 15:47:39: -------- Mapchange to de_port --------
+L 05/28/2025 - 16:03:26: [mapchooser.smx] Voting for next map has started.
+L 05/28/2025 - 16:05:25: [SM] Changed map to "de_dust2"
+L 05/28/2025 - 16:05:25: -------- Mapchange to de_dust2 --------
+L 05/28/2025 - 17:02:59: SourceMod log file session started (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\L20250528.log") (Version "1.12.0.7200")
+L 05/28/2025 - 17:02:59: [basechat.smx] "Solnapolis<2><[U:1:22767151]><>" triggered sm_hsay (text "Radar Sweep\n0/2 - Bot Alpha - 12.3m\nIIIIIIIIIIXIIIIIIIIII")
+L 05/28/2025 - 17:08:37: [mapchooser.smx] Voting for next map has started.
+L 05/28/2025 - 17:25:40: SourceMod log file session started (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\L20250528.log") (Version "1.12.0.7200")
+L 05/28/2025 - 17:25:40: -------- Mapchange to de_dust2 --------
+L 05/28/2025 - 17:36:00: [mapchooser.smx] Voting for next map has started.
+L 05/28/2025 - 17:37:52: [SM] Changed map to "de_port"
+L 05/28/2025 - 17:37:52: -------- Mapchange to de_port --------
+L 05/28/2025 - 18:55:26: SourceMod log file session started (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\L20250528.log") (Version "1.12.0.7200")
+L 05/28/2025 - 18:55:26: [SM] Changed map to "de_port"
+L 05/28/2025 - 18:55:27: -------- Mapchange to de_port --------
+L 05/28/2025 - 18:57:57: [SM] Changed map to "de_dust2"
+L 05/28/2025 - 18:57:57: -------- Mapchange to de_dust2 --------
+L 05/28/2025 - 19:00:27: [SM] Changed map to "de_port"
+L 05/28/2025 - 19:00:28: -------- Mapchange to de_port --------
+L 05/28/2025 - 19:02:58: [SM] Changed map to "de_dust2"
+L 05/28/2025 - 19:02:58: -------- Mapchange to de_dust2 --------
+L 05/28/2025 - 19:05:28: [SM] Changed map to "de_port"
+L 05/28/2025 - 19:05:28: -------- Mapchange to de_port --------
+L 05/28/2025 - 19:07:58: [SM] Changed map to "de_dust2"
+L 05/28/2025 - 19:07:59: -------- Mapchange to de_dust2 --------
+L 05/28/2025 - 19:10:29: [SM] Changed map to "de_port"
+L 05/28/2025 - 19:10:29: -------- Mapchange to de_port --------
+L 05/28/2025 - 19:12:59: [SM] Changed map to "de_dust2"
+L 05/28/2025 - 19:13:00: -------- Mapchange to de_dust2 --------
+L 05/28/2025 - 19:15:30: [SM] Changed map to "de_port"
+L 05/28/2025 - 19:15:30: -------- Mapchange to de_port --------
+L 05/28/2025 - 19:18:00: [SM] Changed map to "de_dust2"
+L 05/28/2025 - 19:18:00: -------- Mapchange to de_dust2 --------
+L 05/28/2025 - 19:20:30: [SM] Changed map to "de_port"
+L 05/28/2025 - 19:20:31: -------- Mapchange to de_port --------
+L 05/28/2025 - 19:23:01: [SM] Changed map to "de_dust2"
+L 05/28/2025 - 19:23:01: -------- Mapchange to de_dust2 --------
+L 05/28/2025 - 19:25:31: [SM] Changed map to "de_port"
+L 05/28/2025 - 19:25:31: -------- Mapchange to de_port --------
+L 05/28/2025 - 19:28:02: [SM] Changed map to "de_dust2"
+L 05/28/2025 - 19:28:02: -------- Mapchange to de_dust2 --------
+L 05/28/2025 - 19:30:32: [SM] Changed map to "de_port"
+L 05/28/2025 - 19:30:32: -------- Mapchange to de_port --------
+L 05/28/2025 - 19:33:03: [SM] Changed map to "de_dust2"
+L 05/28/2025 - 19:33:03: -------- Mapchange to de_dust2 --------
+L 05/28/2025 - 19:35:33: [SM] Changed map to "de_port"
+L 05/28/2025 - 19:35:33: -------- Mapchange to de_port --------
+L 05/28/2025 - 19:38:03: [SM] Changed map to "de_dust2"
+L 05/28/2025 - 19:38:04: -------- Mapchange to de_dust2 --------
+L 05/28/2025 - 19:40:34: [SM] Changed map to "de_port"
+L 05/28/2025 - 19:40:34: -------- Mapchange to de_port --------
+L 05/28/2025 - 19:43:04: [SM] Changed map to "de_dust2"
+L 05/28/2025 - 19:43:04: -------- Mapchange to de_dust2 --------
+L 05/28/2025 - 19:45:34: [SM] Changed map to "de_port"
+L 05/28/2025 - 19:45:35: -------- Mapchange to de_port --------
+L 05/28/2025 - 19:48:05: [SM] Changed map to "de_dust2"
+L 05/28/2025 - 19:48:05: -------- Mapchange to de_dust2 --------
+L 05/28/2025 - 19:50:35: [SM] Changed map to "de_port"
+L 05/28/2025 - 19:50:35: -------- Mapchange to de_port --------
+L 05/28/2025 - 19:53:06: [SM] Changed map to "de_dust2"
+L 05/28/2025 - 19:53:06: -------- Mapchange to de_dust2 --------
+L 05/28/2025 - 19:55:36: [SM] Changed map to "de_port"
+L 05/28/2025 - 19:55:36: -------- Mapchange to de_port --------
+L 05/28/2025 - 21:54:12: SourceMod log file session started (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\L20250528.log") (Version "1.12.0.7200")
+L 05/28/2025 - 21:54:12: [SM] Changed map to "de_port"
+L 05/28/2025 - 21:54:13: -------- Mapchange to de_port --------

@@ -1,0 +1,49 @@
+L 06/07/2025 - 21:20:15: SourceMod error session started
+L 06/07/2025 - 21:20:15: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250607.log")
+L 06/07/2025 - 21:20:15: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/07/2025 - 21:20:15: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/07/2025 - 21:39:38: SourceMod error session started
+L 06/07/2025 - 21:39:38: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250607.log")
+L 06/07/2025 - 21:39:38: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/07/2025 - 21:39:38: [SM] Blaming: match-commands.smx
+L 06/07/2025 - 21:39:38: [SM] Call stack trace:
+L 06/07/2025 - 21:39:38: [SM]   [0] HookEvent
+L 06/07/2025 - 21:39:38: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/07/2025 - 21:39:38: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/07/2025 - 21:39:38: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/07/2025 - 21:39:38: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/07/2025 - 22:31:41: [SM] Exception reported: Client index 0 is invalid
+L 06/07/2025 - 22:31:41: [SM] Blaming: bot2player_public.smx
+L 06/07/2025 - 22:31:41: [SM] Call stack trace:
+L 06/07/2025 - 22:31:41: [SM]   [0] IsClientConnected
+L 06/07/2025 - 22:31:41: [SM]   [1] Line 346, D:\MY_PLUGINS\bot2player_public.sp::Event_PlayerDeath
+L 06/07/2025 - 22:31:41: [SM] Exception reported: Client index 0 is invalid
+L 06/07/2025 - 22:31:41: [SM] Blaming: respawn_commands.smx.smx
+L 06/07/2025 - 22:31:41: [SM] Call stack trace:
+L 06/07/2025 - 22:31:41: [SM]   [0] IsClientInGame
+L 06/07/2025 - 22:31:41: [SM]   [1] Line 95, /groups/sourcemod/upload_tmp/text5417Jb.sp::Event_PlayerDeath
+L 06/07/2025 - 22:33:17: SourceMod error session started
+L 06/07/2025 - 22:33:17: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250607.log")
+L 06/07/2025 - 22:33:17: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/07/2025 - 22:33:17: [SM] Blaming: match-commands.smx
+L 06/07/2025 - 22:33:17: [SM] Call stack trace:
+L 06/07/2025 - 22:33:17: [SM]   [0] HookEvent
+L 06/07/2025 - 22:33:17: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/07/2025 - 22:33:17: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/07/2025 - 22:33:17: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/07/2025 - 22:33:17: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/07/2025 - 22:38:32: SourceMod error session started
+L 06/07/2025 - 22:38:32: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250607.log")
+L 06/07/2025 - 22:38:32: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/07/2025 - 22:38:32: [SM] Blaming: match-commands.smx
+L 06/07/2025 - 22:38:32: [SM] Call stack trace:
+L 06/07/2025 - 22:38:33: [SM]   [0] HookEvent
+L 06/07/2025 - 22:38:33: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/07/2025 - 22:38:33: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/07/2025 - 22:38:33: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/07/2025 - 22:38:33: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/07/2025 - 22:39:28: Error log file session closed.
+L 06/07/2025 - 22:39:28: SourceMod error session started
+L 06/07/2025 - 22:39:28: Info (map "de_dust2_unlimited") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250607.log")
+L 06/07/2025 - 22:39:28: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/07/2025 - 22:39:28: [admin-flatfile.smx]  (line 10) Section declared without header

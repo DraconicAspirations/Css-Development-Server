@@ -1,0 +1,64 @@
+L 05/30/2025 - 19:18:32: SourceMod error session started
+L 05/30/2025 - 19:18:32: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250530.log")
+L 05/30/2025 - 19:18:32: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 05/30/2025 - 19:18:32: [admin-flatfile.smx]  (line 10) Section declared without header
+L 05/30/2025 - 19:46:24: SourceMod error session started
+L 05/30/2025 - 19:46:24: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250530.log")
+L 05/30/2025 - 19:46:24: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 05/30/2025 - 19:46:24: [admin-flatfile.smx]  (line 10) Section declared without header
+L 05/30/2025 - 20:24:07: [SM] Exception reported: Entity -1 (89) is invalid
+L 05/30/2025 - 20:24:07: [SM] Blaming: bot2player_public.smx
+L 05/30/2025 - 20:24:07: [SM] Call stack trace:
+L 05/30/2025 - 20:24:07: [SM]   [0] SetEntPropEnt
+L 05/30/2025 - 20:24:07: [SM]   [1] Line 1010, D:\MY_PLUGINS\include\smlib/clients.inc::Client_SetActiveWeapon
+L 05/30/2025 - 20:24:07: [SM]   [2] Line 378, D:\MY_PLUGINS\bot2player_public.sp::Give_iTargetWeaponsTo_iClient
+L 05/30/2025 - 20:37:56: Error log file session closed.
+L 05/30/2025 - 20:37:56: SourceMod error session started
+L 05/30/2025 - 20:37:56: Info (map "de_port") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250530.log")
+L 05/30/2025 - 20:37:56: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 05/30/2025 - 20:37:56: [admin-flatfile.smx]  (line 10) Section declared without header
+L 05/30/2025 - 20:53:54: Error log file session closed.
+L 05/30/2025 - 20:53:54: SourceMod error session started
+L 05/30/2025 - 20:53:54: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250530.log")
+L 05/30/2025 - 20:53:54: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 05/30/2025 - 20:53:54: [admin-flatfile.smx]  (line 10) Section declared without header
+L 05/30/2025 - 21:31:29: Error log file session closed.
+L 05/30/2025 - 21:31:29: SourceMod error session started
+L 05/30/2025 - 21:31:29: Info (map "de_port") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250530.log")
+L 05/30/2025 - 21:31:29: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 05/30/2025 - 21:31:29: [admin-flatfile.smx]  (line 10) Section declared without header
+L 05/30/2025 - 21:33:47: Error log file session closed.
+L 05/30/2025 - 21:33:47: SourceMod error session started
+L 05/30/2025 - 21:33:47: Info (map "de_mirage_csgo") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250530.log")
+L 05/30/2025 - 21:33:47: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 05/30/2025 - 21:33:47: [admin-flatfile.smx]  (line 10) Section declared without header
+L 05/30/2025 - 21:59:10: Error log file session closed.
+L 05/30/2025 - 21:59:10: SourceMod error session started
+L 05/30/2025 - 21:59:10: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250530.log")
+L 05/30/2025 - 21:59:10: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 05/30/2025 - 21:59:10: [admin-flatfile.smx]  (line 10) Section declared without header
+L 05/30/2025 - 21:59:27: Error log file session closed.
+L 05/30/2025 - 21:59:27: SourceMod error session started
+L 05/30/2025 - 21:59:27: Info (map "de_rats_rc_1337v4") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250530.log")
+L 05/30/2025 - 21:59:27: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 05/30/2025 - 21:59:27: [admin-flatfile.smx]  (line 10) Section declared without header
+L 05/30/2025 - 22:26:24: Error log file session closed.
+L 05/30/2025 - 22:26:25: SourceMod error session started
+L 05/30/2025 - 22:26:25: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250530.log")
+L 05/30/2025 - 22:26:25: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 05/30/2025 - 22:26:25: [admin-flatfile.smx]  (line 10) Section declared without header
+L 05/30/2025 - 22:26:50: Error log file session closed.
+L 05/30/2025 - 22:26:50: SourceMod error session started
+L 05/30/2025 - 22:26:50: Info (map "cs_office") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250530.log")
+L 05/30/2025 - 22:26:50: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 05/30/2025 - 22:26:50: [admin-flatfile.smx]  (line 10) Section declared without header
+L 05/30/2025 - 22:40:16: Error log file session closed.
+L 05/30/2025 - 22:40:16: SourceMod error session started
+L 05/30/2025 - 22:40:16: Info (map "de_port") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250530.log")
+L 05/30/2025 - 22:40:16: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 05/30/2025 - 22:40:16: [admin-flatfile.smx]  (line 10) Section declared without header
+L 05/30/2025 - 22:41:48: Error log file session closed.
+L 05/30/2025 - 22:41:48: SourceMod error session started
+L 05/30/2025 - 22:41:48: Info (map "fy_the_pipes") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250530.log")
+L 05/30/2025 - 22:41:48: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 05/30/2025 - 22:41:48: [admin-flatfile.smx]  (line 10) Section declared without header

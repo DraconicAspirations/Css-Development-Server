@@ -1,0 +1,58 @@
+L 05/31/2025 - 13:06:17: SourceMod log file session started (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\L20250531.log") (Version "1.12.0.7200")
+L 05/31/2025 - 13:06:17: [mapchooser.smx] Voting for next map has started.
+L 05/31/2025 - 13:06:18: [SM] Changed map to "de_rats_rc_1337v4"
+L 05/31/2025 - 13:06:19: -------- Mapchange to de_rats_rc_1337v4 --------
+L 05/31/2025 - 13:08:05: SourceMod log file session started (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\L20250531.log") (Version "1.12.0.7200")
+L 05/31/2025 - 13:08:05: [mapchooser.smx] Voting for next map has started.
+L 05/31/2025 - 13:08:33: [SM] Changed map to "de_train"
+L 05/31/2025 - 13:08:34: -------- Mapchange to de_train --------
+L 05/31/2025 - 13:09:40: [mapchooser.smx] Voting for next map has started.
+L 05/31/2025 - 13:09:48: [mapchooser.smx] Voting for next map has finished. Nextmap: de_port.
+L 05/31/2025 - 13:10:31: [rockthevote.smx] RTV changing map manually
+L 05/31/2025 - 13:10:31: [SM] Changed map to "de_port"
+L 05/31/2025 - 13:10:32: -------- Mapchange to de_port --------
+L 05/31/2025 - 13:12:26: [mapchooser.smx] Voting for next map has started.
+L 05/31/2025 - 13:12:50: [SM] Changed map to "cs_assault"
+L 05/31/2025 - 13:12:51: -------- Mapchange to cs_assault --------
+L 05/31/2025 - 18:30:49: SourceMod log file session started (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\L20250531.log") (Version "1.12.0.7200")
+L 05/31/2025 - 18:30:49: [UPDATER] Successfully updated gamedata file "sm-tf2.games.txt"
+L 05/31/2025 - 18:30:49: [UPDATER] Successfully updated gamedata file "sdktools.games/game.tf2classic.txt"
+L 05/31/2025 - 18:30:49: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.tf2classic.txt"
+L 05/31/2025 - 18:30:49: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 05/31/2025 - 18:31:43: [mapchooser.smx] Voting for next map has started.
+L 05/31/2025 - 18:34:00: [SM] Changed map to "de_mirage_csgo"
+L 05/31/2025 - 18:34:06: -------- Mapchange to de_mirage_csgo --------
+L 05/31/2025 - 19:16:29: SourceMod log file session started (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\L20250531.log") (Version "1.12.0.7200")
+L 05/31/2025 - 19:16:29: [mapchooser.smx] Voting for next map has started.
+L 05/31/2025 - 19:18:23: [SM] Changed map to "fy_snow_07"
+L 05/31/2025 - 19:18:23: -------- Mapchange to fy_snow_07 --------
+L 05/31/2025 - 19:19:14: [mapchooser.smx] Voting for next map has started.
+L 05/31/2025 - 19:20:34: [SM] Changed map to "de_piranesi"
+L 05/31/2025 - 19:20:34: -------- Mapchange to de_piranesi --------
+L 05/31/2025 - 19:21:33: [mapchooser.smx] Voting for next map has started.
+L 05/31/2025 - 19:21:35: [mapchooser.smx] Voting for next map has finished. Nextmap: de_inferno.
+L 05/31/2025 - 19:22:34: [SM] Changed map to "de_inferno"
+L 05/31/2025 - 19:22:35: -------- Mapchange to de_inferno --------
+L 05/31/2025 - 19:23:39: [mapchooser.smx] Voting for next map has started.
+L 05/31/2025 - 19:23:43: [mapchooser.smx] Voting for next map has finished. Nextmap: de_train.
+L 05/31/2025 - 19:33:55: [SM] Changed map to "de_train"
+L 05/31/2025 - 19:33:55: -------- Mapchange to de_train --------
+L 05/31/2025 - 19:37:04: [mapchooser.smx] Voting for next map has started.
+L 05/31/2025 - 19:38:20: [SM] Changed map to "fy_assault"
+L 05/31/2025 - 19:38:20: -------- Mapchange to fy_assault --------
+L 05/31/2025 - 19:49:54: SourceMod log file session started (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\L20250531.log") (Version "1.12.0.7200")
+L 05/31/2025 - 19:49:54: [mapchooser.smx] Voting for next map has started.
+L 05/31/2025 - 19:51:43: [SM] Changed map to "de_train"
+L 05/31/2025 - 19:51:44: -------- Mapchange to de_train --------
+L 05/31/2025 - 19:52:42: [mapchooser.smx] Voting for next map has started.
+L 05/31/2025 - 19:53:38: [SM] Changed map to "cs_compound"
+L 05/31/2025 - 19:53:39: -------- Mapchange to cs_compound --------
+L 05/31/2025 - 19:54:36: [mapchooser.smx] Voting for next map has started.
+L 05/31/2025 - 19:56:05: [SM] Changed map to "fy_assault"
+L 05/31/2025 - 19:56:05: -------- Mapchange to fy_assault --------
+L 05/31/2025 - 19:56:47: [mapchooser.smx] Voting for next map has started.
+L 05/31/2025 - 19:57:17: [SM] Changed map to "cs_office"
+L 05/31/2025 - 19:57:18: -------- Mapchange to cs_office --------
+L 05/31/2025 - 21:00:58: SourceMod log file session started (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\L20250531.log") (Version "1.12.0.7200")
+L 05/31/2025 - 21:00:58: [mapchooser.smx] Voting for next map has started.
+L 06/01/2025 - 02:09:14: Log file closed.

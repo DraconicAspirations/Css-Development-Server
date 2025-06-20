@@ -1,0 +1,12 @@
+L 05/27/2025 - 15:26:28: SourceMod error session started
+L 05/27/2025 - 15:26:28: Info (map "cs_assault") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250527.log")
+L 05/27/2025 - 15:26:28: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 05/27/2025 - 15:26:28: [admin-flatfile.smx]  (line 10) Section declared without header
+L 05/27/2025 - 15:28:03: SourceMod error session started
+L 05/27/2025 - 15:28:03: Info (map "cs_assault") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250527.log")
+L 05/27/2025 - 15:28:03: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 05/27/2025 - 15:28:03: [admin-flatfile.smx]  (line 10) Section declared without header
+L 05/27/2025 - 15:32:49: SourceMod error session started
+L 05/27/2025 - 15:32:49: Info (map "cs_assault") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250527.log")
+L 05/27/2025 - 15:32:49: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 05/27/2025 - 15:32:49: [admin-flatfile.smx]  (line 10) Section declared without header

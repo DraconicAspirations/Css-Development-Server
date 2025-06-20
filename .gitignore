@@ -3,3 +3,29 @@
 
 # But include selected folders and files
 !.gitignore
+
+!Scripts/
+!Scripts/**
+
+!css_ds/
+!css_ds/cstrike/
+!css_ds/cstrike/sound/
+!css_ds/cstrike/sound/**
+
+!css_ds/
+!css_ds/cstrike/
+!css_ds/cstrike/cfg/
+!css_ds/cstrike/cfg/**
+
+!css_ds/
+!css_ds/cstrike/
+!css_ds/cstrike/addons/
+!css_ds/cstrike/addons/**
+
+
+!css_ds/start.bat
+!css_ds/compile_plugins.bat
+!css_ds/css_ds.code-workspace
+
+!css_ds/cstrike/botprofile.db
+

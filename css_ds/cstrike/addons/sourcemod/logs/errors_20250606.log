@@ -1,0 +1,63 @@
+L 06/06/2025 - 19:16:43: SourceMod error session started
+L 06/06/2025 - 19:16:43: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250606.log")
+L 06/06/2025 - 19:16:43: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/06/2025 - 19:16:43: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/06/2025 - 19:20:47: SourceMod error session started
+L 06/06/2025 - 19:20:47: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250606.log")
+L 06/06/2025 - 19:20:47: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/06/2025 - 19:20:47: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/06/2025 - 19:23:59: Error log file session closed.
+L 06/06/2025 - 19:23:59: SourceMod error session started
+L 06/06/2025 - 19:23:59: Info (map "fy_snow_07") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250606.log")
+L 06/06/2025 - 19:23:59: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/06/2025 - 19:23:59: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/06/2025 - 19:30:00: Error log file session closed.
+L 06/06/2025 - 19:30:00: SourceMod error session started
+L 06/06/2025 - 19:30:00: Info (map "de_dust") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250606.log")
+L 06/06/2025 - 19:30:00: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/06/2025 - 19:30:00: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/06/2025 - 19:44:29: Error log file session closed.
+L 06/06/2025 - 19:44:29: SourceMod error session started
+L 06/06/2025 - 19:44:29: Info (map "cs_office") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250606.log")
+L 06/06/2025 - 19:44:29: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/06/2025 - 19:44:29: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/06/2025 - 20:12:55: Error log file session closed.
+L 06/06/2025 - 20:12:55: SourceMod error session started
+L 06/06/2025 - 20:12:55: Info (map "fy_snow_07") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250606.log")
+L 06/06/2025 - 20:12:55: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/06/2025 - 20:12:55: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/06/2025 - 20:25:35: Error log file session closed.
+L 06/06/2025 - 20:25:35: SourceMod error session started
+L 06/06/2025 - 20:25:35: Info (map "de_rats_rc_1337v4") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250606.log")
+L 06/06/2025 - 20:25:35: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/06/2025 - 20:25:35: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/06/2025 - 21:01:54: Error log file session closed.
+L 06/06/2025 - 21:01:54: SourceMod error session started
+L 06/06/2025 - 21:01:54: Info (map "de_aztec") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250606.log")
+L 06/06/2025 - 21:01:54: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/06/2025 - 21:01:54: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/06/2025 - 21:28:11: Error log file session closed.
+L 06/06/2025 - 21:28:11: SourceMod error session started
+L 06/06/2025 - 21:28:11: Info (map "fy_assault") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250606.log")
+L 06/06/2025 - 21:28:11: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/06/2025 - 21:28:11: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/06/2025 - 21:30:56: Error log file session closed.
+L 06/06/2025 - 21:30:56: SourceMod error session started
+L 06/06/2025 - 21:30:56: Info (map "cs_assault") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250606.log")
+L 06/06/2025 - 21:30:56: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/06/2025 - 21:30:56: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/06/2025 - 22:02:53: Error log file session closed.
+L 06/06/2025 - 22:02:53: SourceMod error session started
+L 06/06/2025 - 22:02:53: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250606.log")
+L 06/06/2025 - 22:02:53: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/06/2025 - 22:02:53: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/06/2025 - 22:34:22: Error log file session closed.
+L 06/06/2025 - 22:34:22: SourceMod error session started
+L 06/06/2025 - 22:34:22: Info (map "de_dust") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250606.log")
+L 06/06/2025 - 22:34:22: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/06/2025 - 22:34:22: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/06/2025 - 22:35:26: Error log file session closed.
+L 06/06/2025 - 22:35:26: SourceMod error session started
+L 06/06/2025 - 22:35:26: Info (map "de_mirage_csgo") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250606.log")
+L 06/06/2025 - 22:35:26: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/06/2025 - 22:35:26: [admin-flatfile.smx]  (line 10) Section declared without header

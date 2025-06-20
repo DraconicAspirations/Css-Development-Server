@@ -1,0 +1,26 @@
+L 05/30/2025 - 20:21:24: SourceMod log file session started (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\L20250530.log") (Version "1.12.0.7200")
+L 05/30/2025 - 20:21:24: [mapchooser.smx] Voting for next map has started.
+L 05/30/2025 - 20:21:45: [mapchooser.smx] Voting for next map has finished. Nextmap: de_port.
+L 05/30/2025 - 20:37:56: [SM] Changed map to "de_port"
+L 05/30/2025 - 20:37:56: -------- Mapchange to de_port --------
+L 05/30/2025 - 20:53:54: -------- Mapchange to de_dust2 --------
+L 05/30/2025 - 21:21:39: [mapchooser.smx] Voting for next map has started.
+L 05/30/2025 - 21:22:00: [mapchooser.smx] Voting for next map has finished. Nextmap: de_port.
+L 05/30/2025 - 21:31:29: [SM] Changed map to "de_port"
+L 05/30/2025 - 21:31:29: -------- Mapchange to de_port --------
+L 05/30/2025 - 21:33:47: -------- Mapchange to de_mirage_csgo --------
+L 05/30/2025 - 21:56:38: [mapchooser.smx] Voting for next map has started.
+L 05/30/2025 - 21:56:50: [mapchooser.smx] Voting for next map has finished. Nextmap: de_dust2.
+L 05/30/2025 - 21:59:10: [SM] Changed map to "de_dust2"
+L 05/30/2025 - 21:59:10: -------- Mapchange to de_dust2 --------
+L 05/30/2025 - 21:59:27: -------- Mapchange to de_rats_rc_1337v4 --------
+L 05/30/2025 - 22:24:23: [mapchooser.smx] Voting for next map has started.
+L 05/30/2025 - 22:24:43: [mapchooser.smx] Voting for next map has finished. Nextmap: de_dust2.
+L 05/30/2025 - 22:26:24: [SM] Changed map to "de_dust2"
+L 05/30/2025 - 22:26:24: -------- Mapchange to de_dust2 --------
+L 05/30/2025 - 22:26:50: -------- Mapchange to cs_office --------
+L 05/30/2025 - 22:39:19: [mapchooser.smx] Voting for next map has started.
+L 05/30/2025 - 22:39:40: [mapchooser.smx] Voting for next map has finished. Nextmap: de_port.
+L 05/30/2025 - 22:40:15: [SM] Changed map to "de_port"
+L 05/30/2025 - 22:40:16: -------- Mapchange to de_port --------
+L 05/30/2025 - 22:41:48: -------- Mapchange to fy_the_pipes --------

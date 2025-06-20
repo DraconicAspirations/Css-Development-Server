@@ -1,0 +1,33 @@
+L 06/13/2025 - 04:24:13: SourceMod log file session started (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\L20250613.log") (Version "1.12.0.7200")
+L 06/13/2025 - 04:24:13: -------- Mapchange to cs_assault --------
+L 06/13/2025 - 20:27:09: SourceMod log file session started (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\L20250613.log") (Version "1.12.0.7200")
+L 06/13/2025 - 20:27:09: [mapchooser.smx] Voting for next map has started.
+L 06/13/2025 - 20:27:29: [mapchooser.smx] Voting for next map has finished. Nextmap: de_aztec.
+L 06/13/2025 - 20:30:48: [SM] Changed map to "de_aztec"
+L 06/13/2025 - 20:30:49: -------- Mapchange to de_aztec --------
+L 06/13/2025 - 20:58:19: [mapchooser.smx] Voting for next map has started.
+L 06/13/2025 - 20:58:30: [mapchooser.smx] Voting for next map has finished. Nextmap: de_rats_rc_1337v4.
+L 06/13/2025 - 21:01:27: [SM] Changed map to "de_rats_rc_1337v4"
+L 06/13/2025 - 21:01:28: -------- Mapchange to de_rats_rc_1337v4 --------
+L 06/13/2025 - 21:01:50: [SM] Changed map to "de_mirage_csgo"
+L 06/13/2025 - 21:01:57: -------- Mapchange to de_mirage_csgo --------
+L 06/13/2025 - 21:02:53: -------- Mapchange to de_rats_rc_1337v4 --------
+L 06/13/2025 - 21:35:02: [mapchooser.smx] Voting for next map has started.
+L 06/13/2025 - 21:35:23: [mapchooser.smx] Voting for next map has finished. Nextmap: cs_assault.
+L 06/13/2025 - 21:38:31: [SM] Changed map to "cs_assault"
+L 06/13/2025 - 21:38:32: -------- Mapchange to cs_assault --------
+L 06/13/2025 - 21:57:06: [mapchooser.smx] Voting for next map has started.
+L 06/13/2025 - 21:57:26: [mapchooser.smx] Voting for next map has finished. Nextmap: de_train.
+L 06/13/2025 - 22:19:28: [SM] Changed map to "de_train"
+L 06/13/2025 - 22:19:29: -------- Mapchange to de_train --------
+L 06/13/2025 - 22:19:58: -------- Mapchange to de_dust2 --------
+L 06/13/2025 - 22:40:35: [mapchooser.smx] Voting for next map has started.
+L 06/13/2025 - 22:40:56: [mapchooser.smx] Voting for next map has finished. Nextmap: de_inferno.
+L 06/13/2025 - 22:43:05: [SM] Changed map to "de_inferno"
+L 06/13/2025 - 22:43:06: -------- Mapchange to de_inferno --------
+L 06/13/2025 - 22:43:21: -------- Mapchange to de_dust2 --------
+L 06/13/2025 - 23:12:17: [mapchooser.smx] Voting for next map has started.
+L 06/13/2025 - 23:12:31: [mapchooser.smx] Voting for next map has finished. Nextmap: de_dust.
+L 06/13/2025 - 23:19:27: [SM] Changed map to "de_dust"
+L 06/13/2025 - 23:19:27: -------- Mapchange to de_dust --------
+L 06/13/2025 - 23:19:44: -------- Mapchange to de_dust2 --------

@@ -1,0 +1,20 @@
+L 06/11/2025 - 03:48:04: SourceMod error session started
+L 06/11/2025 - 03:48:04: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250611.log")
+L 06/11/2025 - 03:48:04: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/11/2025 - 03:48:04: [SM] Blaming: match-commands.smx
+L 06/11/2025 - 03:48:04: [SM] Call stack trace:
+L 06/11/2025 - 03:48:04: [SM]   [0] HookEvent
+L 06/11/2025 - 03:48:04: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/11/2025 - 03:48:04: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/11/2025 - 03:48:04: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/11/2025 - 03:48:04: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/11/2025 - 09:14:17: SourceMod error session started
+L 06/11/2025 - 09:14:17: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250611.log")
+L 06/11/2025 - 09:14:17: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/11/2025 - 09:14:17: [SM] Blaming: match-commands.smx
+L 06/11/2025 - 09:14:17: [SM] Call stack trace:
+L 06/11/2025 - 09:14:17: [SM]   [0] HookEvent
+L 06/11/2025 - 09:14:17: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/11/2025 - 09:14:17: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/11/2025 - 09:14:17: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/11/2025 - 09:14:17: [admin-flatfile.smx]  (line 10) Section declared without header

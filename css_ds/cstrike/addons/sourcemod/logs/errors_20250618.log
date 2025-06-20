@@ -1,0 +1,392 @@
+L 06/18/2025 - 03:19:47: SourceMod error session started
+L 06/18/2025 - 03:19:47: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250618.log")
+L 06/18/2025 - 03:19:47: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/18/2025 - 03:19:47: [SM] Blaming: match-commands.smx
+L 06/18/2025 - 03:19:47: [SM] Call stack trace:
+L 06/18/2025 - 03:19:47: [SM]   [0] HookEvent
+L 06/18/2025 - 03:19:47: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/18/2025 - 03:19:47: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/18/2025 - 03:19:48: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/18/2025 - 03:19:48: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/18/2025 - 03:35:45: SourceMod error session started
+L 06/18/2025 - 03:35:45: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250618.log")
+L 06/18/2025 - 03:35:45: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/18/2025 - 03:35:45: [SM] Blaming: match-commands.smx
+L 06/18/2025 - 03:35:45: [SM] Call stack trace:
+L 06/18/2025 - 03:35:45: [SM]   [0] HookEvent
+L 06/18/2025 - 03:35:45: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/18/2025 - 03:35:45: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/18/2025 - 03:35:45: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/18/2025 - 03:35:45: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/18/2025 - 03:38:10: SourceMod error session started
+L 06/18/2025 - 03:38:10: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250618.log")
+L 06/18/2025 - 03:38:10: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/18/2025 - 03:38:10: [SM] Blaming: match-commands.smx
+L 06/18/2025 - 03:38:10: [SM] Call stack trace:
+L 06/18/2025 - 03:38:10: [SM]   [0] HookEvent
+L 06/18/2025 - 03:38:10: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/18/2025 - 03:38:10: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/18/2025 - 03:38:10: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/18/2025 - 03:38:10: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/18/2025 - 03:45:09: SourceMod error session started
+L 06/18/2025 - 03:45:09: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250618.log")
+L 06/18/2025 - 03:45:09: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/18/2025 - 03:45:09: [SM] Blaming: match-commands.smx
+L 06/18/2025 - 03:45:09: [SM] Call stack trace:
+L 06/18/2025 - 03:45:09: [SM]   [0] HookEvent
+L 06/18/2025 - 03:45:09: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/18/2025 - 03:45:09: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/18/2025 - 03:45:09: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/18/2025 - 03:45:09: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/18/2025 - 05:15:35: SourceMod error session started
+L 06/18/2025 - 05:15:35: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250618.log")
+L 06/18/2025 - 05:15:35: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/18/2025 - 05:15:36: [SM] Blaming: match-commands.smx
+L 06/18/2025 - 05:15:36: [SM] Call stack trace:
+L 06/18/2025 - 05:15:36: [SM]   [0] HookEvent
+L 06/18/2025 - 05:15:36: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/18/2025 - 05:15:36: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/18/2025 - 05:15:36: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/18/2025 - 05:15:36: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/18/2025 - 05:22:45: [SM] Exception reported: Entity -1 (77) is invalid
+L 06/18/2025 - 05:22:45: [SM] Blaming: bot2player_public.smx
+L 06/18/2025 - 05:22:45: [SM] Call stack trace:
+L 06/18/2025 - 05:22:45: [SM]   [0] SetEntPropEnt
+L 06/18/2025 - 05:22:45: [SM]   [1] Line 1010, D:\MY_PLUGINS\include\smlib/clients.inc::Client_SetActiveWeapon
+L 06/18/2025 - 05:22:45: [SM]   [2] Line 378, D:\MY_PLUGINS\bot2player_public.sp::Give_iTargetWeaponsTo_iClient
+L 06/18/2025 - 05:23:30: [SM] Exception reported: Entity -1 (64) is invalid
+L 06/18/2025 - 05:23:30: [SM] Blaming: bot2player_public.smx
+L 06/18/2025 - 05:23:30: [SM] Call stack trace:
+L 06/18/2025 - 05:23:30: [SM]   [0] SetEntPropEnt
+L 06/18/2025 - 05:23:30: [SM]   [1] Line 1010, D:\MY_PLUGINS\include\smlib/clients.inc::Client_SetActiveWeapon
+L 06/18/2025 - 05:23:30: [SM]   [2] Line 378, D:\MY_PLUGINS\bot2player_public.sp::Give_iTargetWeaponsTo_iClient
+L 06/18/2025 - 06:31:00: SourceMod error session started
+L 06/18/2025 - 06:31:00: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250618.log")
+L 06/18/2025 - 06:31:00: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/18/2025 - 06:31:00: [SM] Blaming: match-commands.smx
+L 06/18/2025 - 06:31:01: [SM] Call stack trace:
+L 06/18/2025 - 06:31:01: [SM]   [0] HookEvent
+L 06/18/2025 - 06:31:01: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/18/2025 - 06:31:01: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/18/2025 - 06:31:01: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/18/2025 - 06:31:01: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/18/2025 - 06:31:30: SourceMod error session started
+L 06/18/2025 - 06:31:30: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250618.log")
+L 06/18/2025 - 06:31:30: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/18/2025 - 06:31:30: [SM] Blaming: match-commands.smx
+L 06/18/2025 - 06:31:30: [SM] Call stack trace:
+L 06/18/2025 - 06:31:30: [SM]   [0] HookEvent
+L 06/18/2025 - 06:31:30: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/18/2025 - 06:31:30: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/18/2025 - 06:31:30: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/18/2025 - 06:31:30: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/18/2025 - 06:36:22: SourceMod error session started
+L 06/18/2025 - 06:36:22: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250618.log")
+L 06/18/2025 - 06:36:22: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/18/2025 - 06:36:22: [SM] Blaming: match-commands.smx
+L 06/18/2025 - 06:36:22: [SM] Call stack trace:
+L 06/18/2025 - 06:36:22: [SM]   [0] HookEvent
+L 06/18/2025 - 06:36:22: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/18/2025 - 06:36:22: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/18/2025 - 06:36:22: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/18/2025 - 06:36:22: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/18/2025 - 06:36:30: SourceMod error session started
+L 06/18/2025 - 06:36:30: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250618.log")
+L 06/18/2025 - 06:36:30: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/18/2025 - 06:36:30: [SM] Blaming: match-commands.smx
+L 06/18/2025 - 06:36:30: [SM] Call stack trace:
+L 06/18/2025 - 06:36:30: [SM]   [0] HookEvent
+L 06/18/2025 - 06:36:30: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/18/2025 - 06:36:30: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/18/2025 - 06:36:30: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/18/2025 - 06:36:30: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/18/2025 - 06:38:04: SourceMod error session started
+L 06/18/2025 - 06:38:04: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250618.log")
+L 06/18/2025 - 06:38:04: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/18/2025 - 06:38:04: [SM] Blaming: match-commands.smx
+L 06/18/2025 - 06:38:04: [SM] Call stack trace:
+L 06/18/2025 - 06:38:04: [SM]   [0] HookEvent
+L 06/18/2025 - 06:38:04: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/18/2025 - 06:38:04: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/18/2025 - 06:38:04: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/18/2025 - 06:38:04: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/18/2025 - 06:39:48: SourceMod error session started
+L 06/18/2025 - 06:39:48: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250618.log")
+L 06/18/2025 - 06:39:48: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/18/2025 - 06:39:48: [SM] Blaming: match-commands.smx
+L 06/18/2025 - 06:39:48: [SM] Call stack trace:
+L 06/18/2025 - 06:39:48: [SM]   [0] HookEvent
+L 06/18/2025 - 06:39:48: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/18/2025 - 06:39:48: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/18/2025 - 06:39:48: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/18/2025 - 06:39:48: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/18/2025 - 06:43:06: SourceMod error session started
+L 06/18/2025 - 06:43:06: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250618.log")
+L 06/18/2025 - 06:43:06: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/18/2025 - 06:43:06: [SM] Blaming: match-commands.smx
+L 06/18/2025 - 06:43:06: [SM] Call stack trace:
+L 06/18/2025 - 06:43:06: [SM]   [0] HookEvent
+L 06/18/2025 - 06:43:06: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/18/2025 - 06:43:06: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/18/2025 - 06:43:06: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/18/2025 - 06:43:06: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/18/2025 - 06:43:14: SourceMod error session started
+L 06/18/2025 - 06:43:14: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250618.log")
+L 06/18/2025 - 06:43:14: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/18/2025 - 06:43:14: [SM] Blaming: match-commands.smx
+L 06/18/2025 - 06:43:14: [SM] Call stack trace:
+L 06/18/2025 - 06:43:14: [SM]   [0] HookEvent
+L 06/18/2025 - 06:43:14: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/18/2025 - 06:43:14: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/18/2025 - 06:43:14: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/18/2025 - 06:43:14: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/18/2025 - 06:43:25: [SM] Exception reported: Property "m_hOwnerEntity" not found (entity 23/cs_team_manager)
+L 06/18/2025 - 06:43:25: [SM] Blaming: custom-autogrenadegiver.smx
+L 06/18/2025 - 06:43:25: [SM] Call stack trace:
+L 06/18/2025 - 06:43:25: [SM]   [0] GetEntPropEnt
+L 06/18/2025 - 06:43:25: [SM]   [1] Line 68, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::CountPlayerGrenades
+L 06/18/2025 - 06:43:25: [SM]   [2] Line 41, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::GiveMissingGrenade
+L 06/18/2025 - 06:43:25: [SM]   [3] Line 31, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::Command_GiveGrenades
+L 06/18/2025 - 06:43:27: [SM] Exception reported: Property "m_hOwnerEntity" not found (entity 23/cs_team_manager)
+L 06/18/2025 - 06:43:27: [SM] Blaming: custom-autogrenadegiver.smx
+L 06/18/2025 - 06:43:27: [SM] Call stack trace:
+L 06/18/2025 - 06:43:27: [SM]   [0] GetEntPropEnt
+L 06/18/2025 - 06:43:27: [SM]   [1] Line 68, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::CountPlayerGrenades
+L 06/18/2025 - 06:43:27: [SM]   [2] Line 41, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::GiveMissingGrenade
+L 06/18/2025 - 06:43:27: [SM]   [3] Line 31, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::Command_GiveGrenades
+L 06/18/2025 - 06:43:27: [SM] Exception reported: Property "m_hOwnerEntity" not found (entity 23/cs_team_manager)
+L 06/18/2025 - 06:43:27: [SM] Blaming: custom-autogrenadegiver.smx
+L 06/18/2025 - 06:43:27: [SM] Call stack trace:
+L 06/18/2025 - 06:43:27: [SM]   [0] GetEntPropEnt
+L 06/18/2025 - 06:43:27: [SM]   [1] Line 68, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::CountPlayerGrenades
+L 06/18/2025 - 06:43:27: [SM]   [2] Line 41, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::GiveMissingGrenade
+L 06/18/2025 - 06:43:28: [SM]   [3] Line 31, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::Command_GiveGrenades
+L 06/18/2025 - 06:43:28: [SM] Exception reported: Property "m_hOwnerEntity" not found (entity 23/cs_team_manager)
+L 06/18/2025 - 06:43:28: [SM] Blaming: custom-autogrenadegiver.smx
+L 06/18/2025 - 06:43:28: [SM] Call stack trace:
+L 06/18/2025 - 06:43:28: [SM]   [0] GetEntPropEnt
+L 06/18/2025 - 06:43:28: [SM]   [1] Line 68, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::CountPlayerGrenades
+L 06/18/2025 - 06:43:28: [SM]   [2] Line 41, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::GiveMissingGrenade
+L 06/18/2025 - 06:43:28: [SM]   [3] Line 31, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::Command_GiveGrenades
+L 06/18/2025 - 06:43:28: [SM] Exception reported: Property "m_hOwnerEntity" not found (entity 23/cs_team_manager)
+L 06/18/2025 - 06:43:28: [SM] Blaming: custom-autogrenadegiver.smx
+L 06/18/2025 - 06:43:28: [SM] Call stack trace:
+L 06/18/2025 - 06:43:28: [SM]   [0] GetEntPropEnt
+L 06/18/2025 - 06:43:28: [SM]   [1] Line 68, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::CountPlayerGrenades
+L 06/18/2025 - 06:43:28: [SM]   [2] Line 41, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::GiveMissingGrenade
+L 06/18/2025 - 06:43:28: [SM]   [3] Line 31, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::Command_GiveGrenades
+L 06/18/2025 - 06:43:28: [SM] Exception reported: Property "m_hOwnerEntity" not found (entity 23/cs_team_manager)
+L 06/18/2025 - 06:43:28: [SM] Blaming: custom-autogrenadegiver.smx
+L 06/18/2025 - 06:43:28: [SM] Call stack trace:
+L 06/18/2025 - 06:43:28: [SM]   [0] GetEntPropEnt
+L 06/18/2025 - 06:43:28: [SM]   [1] Line 68, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::CountPlayerGrenades
+L 06/18/2025 - 06:43:28: [SM]   [2] Line 41, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::GiveMissingGrenade
+L 06/18/2025 - 06:43:28: [SM]   [3] Line 31, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::Command_GiveGrenades
+L 06/18/2025 - 06:43:41: [SM] Exception reported: Property "m_hOwnerEntity" not found (entity 23/cs_team_manager)
+L 06/18/2025 - 06:43:41: [SM] Blaming: custom-autogrenadegiver.smx
+L 06/18/2025 - 06:43:41: [SM] Call stack trace:
+L 06/18/2025 - 06:43:41: [SM]   [0] GetEntPropEnt
+L 06/18/2025 - 06:43:41: [SM]   [1] Line 68, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::CountPlayerGrenades
+L 06/18/2025 - 06:43:41: [SM]   [2] Line 41, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::GiveMissingGrenade
+L 06/18/2025 - 06:43:41: [SM]   [3] Line 31, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::Command_GiveGrenades
+L 06/18/2025 - 06:43:42: [SM] Exception reported: Property "m_hOwnerEntity" not found (entity 23/cs_team_manager)
+L 06/18/2025 - 06:43:42: [SM] Blaming: custom-autogrenadegiver.smx
+L 06/18/2025 - 06:43:42: [SM] Call stack trace:
+L 06/18/2025 - 06:43:42: [SM]   [0] GetEntPropEnt
+L 06/18/2025 - 06:43:42: [SM]   [1] Line 68, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::CountPlayerGrenades
+L 06/18/2025 - 06:43:42: [SM]   [2] Line 41, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::GiveMissingGrenade
+L 06/18/2025 - 06:43:42: [SM]   [3] Line 31, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::Command_GiveGrenades
+L 06/18/2025 - 06:43:42: [SM] Exception reported: Property "m_hOwnerEntity" not found (entity 23/cs_team_manager)
+L 06/18/2025 - 06:43:42: [SM] Blaming: custom-autogrenadegiver.smx
+L 06/18/2025 - 06:43:42: [SM] Call stack trace:
+L 06/18/2025 - 06:43:42: [SM]   [0] GetEntPropEnt
+L 06/18/2025 - 06:43:42: [SM]   [1] Line 68, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::CountPlayerGrenades
+L 06/18/2025 - 06:43:42: [SM]   [2] Line 41, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::GiveMissingGrenade
+L 06/18/2025 - 06:43:42: [SM]   [3] Line 31, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::Command_GiveGrenades
+L 06/18/2025 - 06:43:43: [SM] Exception reported: Property "m_hOwnerEntity" not found (entity 23/cs_team_manager)
+L 06/18/2025 - 06:43:43: [SM] Blaming: custom-autogrenadegiver.smx
+L 06/18/2025 - 06:43:43: [SM] Call stack trace:
+L 06/18/2025 - 06:43:43: [SM]   [0] GetEntPropEnt
+L 06/18/2025 - 06:43:43: [SM]   [1] Line 68, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::CountPlayerGrenades
+L 06/18/2025 - 06:43:43: [SM]   [2] Line 41, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::GiveMissingGrenade
+L 06/18/2025 - 06:43:43: [SM]   [3] Line 31, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::Command_GiveGrenades
+L 06/18/2025 - 06:43:43: [SM] Exception reported: Property "m_hOwnerEntity" not found (entity 23/cs_team_manager)
+L 06/18/2025 - 06:43:43: [SM] Blaming: custom-autogrenadegiver.smx
+L 06/18/2025 - 06:43:43: [SM] Call stack trace:
+L 06/18/2025 - 06:43:43: [SM]   [0] GetEntPropEnt
+L 06/18/2025 - 06:43:43: [SM]   [1] Line 68, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::CountPlayerGrenades
+L 06/18/2025 - 06:43:43: [SM]   [2] Line 41, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::GiveMissingGrenade
+L 06/18/2025 - 06:43:43: [SM]   [3] Line 31, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::Command_GiveGrenades
+L 06/18/2025 - 06:45:23: SourceMod error session started
+L 06/18/2025 - 06:45:23: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250618.log")
+L 06/18/2025 - 06:45:23: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/18/2025 - 06:45:23: [SM] Blaming: match-commands.smx
+L 06/18/2025 - 06:45:23: [SM] Call stack trace:
+L 06/18/2025 - 06:45:23: [SM]   [0] HookEvent
+L 06/18/2025 - 06:45:23: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/18/2025 - 06:45:23: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/18/2025 - 06:45:23: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/18/2025 - 06:45:23: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/18/2025 - 06:45:40: [SM] Exception reported: Property "m_hOwnerEntity" not found (entity 23/cs_team_manager)
+L 06/18/2025 - 06:45:40: [SM] Blaming: custom-autogrenadegiver.smx
+L 06/18/2025 - 06:45:40: [SM] Call stack trace:
+L 06/18/2025 - 06:45:40: [SM]   [0] GetEntPropEnt
+L 06/18/2025 - 06:45:40: [SM]   [1] Line 68, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::CountPlayerGrenades
+L 06/18/2025 - 06:45:40: [SM]   [2] Line 41, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::GiveMissingGrenade
+L 06/18/2025 - 06:45:40: [SM]   [3] Line 31, C:\MyPrograms\steamcmd\Scripts\server-ready\custom-autogrenadegiver.sp::Command_GiveGrenades
+L 06/18/2025 - 06:47:47: SourceMod error session started
+L 06/18/2025 - 06:47:47: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250618.log")
+L 06/18/2025 - 06:47:47: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/18/2025 - 06:47:47: [SM] Blaming: match-commands.smx
+L 06/18/2025 - 06:47:47: [SM] Call stack trace:
+L 06/18/2025 - 06:47:47: [SM]   [0] HookEvent
+L 06/18/2025 - 06:47:47: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/18/2025 - 06:47:47: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/18/2025 - 06:47:47: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/18/2025 - 06:47:47: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/18/2025 - 06:48:06: [SM] Exception reported: Property "m_hOwnerEntity" not found (entity 23/cs_team_manager)
+L 06/18/2025 - 06:48:06: [SM] Blaming: custom-autogrenadegiver.smx
+L 06/18/2025 - 06:48:06: [SM] Call stack trace:
+L 06/18/2025 - 06:48:06: [SM]   [0] GetEntPropEnt
+L 06/18/2025 - 06:48:06: [SM]   [1] Line 68, /groups/sourcemod/upload_tmp/text99oLw4.sp::CountPlayerGrenades
+L 06/18/2025 - 06:48:06: [SM]   [2] Line 41, /groups/sourcemod/upload_tmp/text99oLw4.sp::GiveMissingGrenade
+L 06/18/2025 - 06:48:06: [SM]   [3] Line 31, /groups/sourcemod/upload_tmp/text99oLw4.sp::Command_GiveGrenades
+L 06/18/2025 - 06:48:08: [SM] Exception reported: Property "m_hOwnerEntity" not found (entity 23/cs_team_manager)
+L 06/18/2025 - 06:48:08: [SM] Blaming: custom-autogrenadegiver.smx
+L 06/18/2025 - 06:48:08: [SM] Call stack trace:
+L 06/18/2025 - 06:48:08: [SM]   [0] GetEntPropEnt
+L 06/18/2025 - 06:48:08: [SM]   [1] Line 68, /groups/sourcemod/upload_tmp/text99oLw4.sp::CountPlayerGrenades
+L 06/18/2025 - 06:48:08: [SM]   [2] Line 41, /groups/sourcemod/upload_tmp/text99oLw4.sp::GiveMissingGrenade
+L 06/18/2025 - 06:48:08: [SM]   [3] Line 31, /groups/sourcemod/upload_tmp/text99oLw4.sp::Command_GiveGrenades
+L 06/18/2025 - 06:48:08: [SM] Exception reported: Property "m_hOwnerEntity" not found (entity 23/cs_team_manager)
+L 06/18/2025 - 06:48:08: [SM] Blaming: custom-autogrenadegiver.smx
+L 06/18/2025 - 06:48:08: [SM] Call stack trace:
+L 06/18/2025 - 06:48:08: [SM]   [0] GetEntPropEnt
+L 06/18/2025 - 06:48:08: [SM]   [1] Line 68, /groups/sourcemod/upload_tmp/text99oLw4.sp::CountPlayerGrenades
+L 06/18/2025 - 06:48:08: [SM]   [2] Line 41, /groups/sourcemod/upload_tmp/text99oLw4.sp::GiveMissingGrenade
+L 06/18/2025 - 06:48:08: [SM]   [3] Line 31, /groups/sourcemod/upload_tmp/text99oLw4.sp::Command_GiveGrenades
+L 06/18/2025 - 06:48:08: [SM] Exception reported: Property "m_hOwnerEntity" not found (entity 23/cs_team_manager)
+L 06/18/2025 - 06:48:08: [SM] Blaming: custom-autogrenadegiver.smx
+L 06/18/2025 - 06:48:08: [SM] Call stack trace:
+L 06/18/2025 - 06:48:08: [SM]   [0] GetEntPropEnt
+L 06/18/2025 - 06:48:08: [SM]   [1] Line 68, /groups/sourcemod/upload_tmp/text99oLw4.sp::CountPlayerGrenades
+L 06/18/2025 - 06:48:08: [SM]   [2] Line 41, /groups/sourcemod/upload_tmp/text99oLw4.sp::GiveMissingGrenade
+L 06/18/2025 - 06:48:08: [SM]   [3] Line 31, /groups/sourcemod/upload_tmp/text99oLw4.sp::Command_GiveGrenades
+L 06/18/2025 - 06:48:09: [SM] Exception reported: Property "m_hOwnerEntity" not found (entity 23/cs_team_manager)
+L 06/18/2025 - 06:48:09: [SM] Blaming: custom-autogrenadegiver.smx
+L 06/18/2025 - 06:48:09: [SM] Call stack trace:
+L 06/18/2025 - 06:48:09: [SM]   [0] GetEntPropEnt
+L 06/18/2025 - 06:48:09: [SM]   [1] Line 68, /groups/sourcemod/upload_tmp/text99oLw4.sp::CountPlayerGrenades
+L 06/18/2025 - 06:48:09: [SM]   [2] Line 41, /groups/sourcemod/upload_tmp/text99oLw4.sp::GiveMissingGrenade
+L 06/18/2025 - 06:48:09: [SM]   [3] Line 31, /groups/sourcemod/upload_tmp/text99oLw4.sp::Command_GiveGrenades
+L 06/18/2025 - 06:50:12: SourceMod error session started
+L 06/18/2025 - 06:50:12: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250618.log")
+L 06/18/2025 - 06:50:12: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/18/2025 - 06:50:12: [SM] Blaming: match-commands.smx
+L 06/18/2025 - 06:50:12: [SM] Call stack trace:
+L 06/18/2025 - 06:50:12: [SM]   [0] HookEvent
+L 06/18/2025 - 06:50:12: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/18/2025 - 06:50:12: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/18/2025 - 06:50:12: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/18/2025 - 06:50:12: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/18/2025 - 06:52:25: SourceMod error session started
+L 06/18/2025 - 06:52:25: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250618.log")
+L 06/18/2025 - 06:52:25: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/18/2025 - 06:52:25: [SM] Blaming: match-commands.smx
+L 06/18/2025 - 06:52:25: [SM] Call stack trace:
+L 06/18/2025 - 06:52:25: [SM]   [0] HookEvent
+L 06/18/2025 - 06:52:25: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/18/2025 - 06:52:25: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/18/2025 - 06:52:25: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/18/2025 - 06:52:25: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/18/2025 - 06:54:57: SourceMod error session started
+L 06/18/2025 - 06:54:57: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250618.log")
+L 06/18/2025 - 06:54:57: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/18/2025 - 06:54:57: [SM] Blaming: match-commands.smx
+L 06/18/2025 - 06:54:57: [SM] Call stack trace:
+L 06/18/2025 - 06:54:57: [SM]   [0] HookEvent
+L 06/18/2025 - 06:54:57: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/18/2025 - 06:54:57: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/18/2025 - 06:54:57: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/18/2025 - 06:54:57: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/18/2025 - 06:57:48: SourceMod error session started
+L 06/18/2025 - 06:57:48: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250618.log")
+L 06/18/2025 - 06:57:48: [SM] Exception reported: Game event "bomb_drop" does not exist
+L 06/18/2025 - 06:57:48: [SM] Blaming: match-commands.smx
+L 06/18/2025 - 06:57:48: [SM] Call stack trace:
+L 06/18/2025 - 06:57:48: [SM]   [0] HookEvent
+L 06/18/2025 - 06:57:48: [SM]   [1] Line 15, /groups/sourcemod/upload_tmp/textKSq1yI.sp::OnPluginStart
+L 06/18/2025 - 06:57:48: [SM] Unable to load plugin "match-commands.smx": Error detected in plugin startup (see error logs)
+L 06/18/2025 - 06:57:48: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/18/2025 - 06:57:48: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/18/2025 - 07:11:45: [SM] Exception reported: Entity -1 (94) is invalid
+L 06/18/2025 - 07:11:45: [SM] Blaming: bot2player_public.smx
+L 06/18/2025 - 07:11:45: [SM] Call stack trace:
+L 06/18/2025 - 07:11:45: [SM]   [0] SetEntPropEnt
+L 06/18/2025 - 07:11:45: [SM]   [1] Line 1010, D:\MY_PLUGINS\include\smlib/clients.inc::Client_SetActiveWeapon
+L 06/18/2025 - 07:11:45: [SM]   [2] Line 378, D:\MY_PLUGINS\bot2player_public.sp::Give_iTargetWeaponsTo_iClient
+L 06/18/2025 - 07:13:18: [SM] Exception reported: Entity -1 (81) is invalid
+L 06/18/2025 - 07:13:18: [SM] Blaming: bot2player_public.smx
+L 06/18/2025 - 07:13:18: [SM] Call stack trace:
+L 06/18/2025 - 07:13:18: [SM]   [0] SetEntPropEnt
+L 06/18/2025 - 07:13:18: [SM]   [1] Line 1010, D:\MY_PLUGINS\include\smlib/clients.inc::Client_SetActiveWeapon
+L 06/18/2025 - 07:13:18: [SM]   [2] Line 378, D:\MY_PLUGINS\bot2player_public.sp::Give_iTargetWeaponsTo_iClient
+L 06/18/2025 - 07:18:51: [SM] Exception reported: Entity -1 (84) is invalid
+L 06/18/2025 - 07:18:51: [SM] Blaming: bot2player_public.smx
+L 06/18/2025 - 07:18:51: [SM] Call stack trace:
+L 06/18/2025 - 07:18:51: [SM]   [0] SetEntPropEnt
+L 06/18/2025 - 07:18:51: [SM]   [1] Line 1010, D:\MY_PLUGINS\include\smlib/clients.inc::Client_SetActiveWeapon
+L 06/18/2025 - 07:18:51: [SM]   [2] Line 378, D:\MY_PLUGINS\bot2player_public.sp::Give_iTargetWeaponsTo_iClient
+L 06/18/2025 - 07:19:58: [SM] Exception reported: Entity -1 (110) is invalid
+L 06/18/2025 - 07:19:58: [SM] Blaming: bot2player_public.smx
+L 06/18/2025 - 07:19:58: [SM] Call stack trace:
+L 06/18/2025 - 07:19:58: [SM]   [0] SetEntPropEnt
+L 06/18/2025 - 07:19:58: [SM]   [1] Line 1010, D:\MY_PLUGINS\include\smlib/clients.inc::Client_SetActiveWeapon
+L 06/18/2025 - 07:19:58: [SM]   [2] Line 378, D:\MY_PLUGINS\bot2player_public.sp::Give_iTargetWeaponsTo_iClient
+L 06/18/2025 - 07:22:55: [SM] Exception reported: Entity -1 (92) is invalid
+L 06/18/2025 - 07:22:55: [SM] Blaming: bot2player_public.smx
+L 06/18/2025 - 07:22:55: [SM] Call stack trace:
+L 06/18/2025 - 07:22:55: [SM]   [0] SetEntPropEnt
+L 06/18/2025 - 07:22:56: [SM]   [1] Line 1010, D:\MY_PLUGINS\include\smlib/clients.inc::Client_SetActiveWeapon
+L 06/18/2025 - 07:22:56: [SM]   [2] Line 378, D:\MY_PLUGINS\bot2player_public.sp::Give_iTargetWeaponsTo_iClient
+L 06/18/2025 - 07:23:39: [SM] Exception reported: Entity -1 (96) is invalid
+L 06/18/2025 - 07:23:39: [SM] Blaming: bot2player_public.smx
+L 06/18/2025 - 07:23:39: [SM] Call stack trace:
+L 06/18/2025 - 07:23:39: [SM]   [0] SetEntPropEnt
+L 06/18/2025 - 07:23:39: [SM]   [1] Line 1010, D:\MY_PLUGINS\include\smlib/clients.inc::Client_SetActiveWeapon
+L 06/18/2025 - 07:23:39: [SM]   [2] Line 378, D:\MY_PLUGINS\bot2player_public.sp::Give_iTargetWeaponsTo_iClient
+L 06/18/2025 - 07:24:29: [SM] Exception reported: Entity -1 (106) is invalid
+L 06/18/2025 - 07:24:29: [SM] Blaming: bot2player_public.smx
+L 06/18/2025 - 07:24:29: [SM] Call stack trace:
+L 06/18/2025 - 07:24:29: [SM]   [0] SetEntPropEnt
+L 06/18/2025 - 07:24:29: [SM]   [1] Line 1010, D:\MY_PLUGINS\include\smlib/clients.inc::Client_SetActiveWeapon
+L 06/18/2025 - 07:24:29: [SM]   [2] Line 378, D:\MY_PLUGINS\bot2player_public.sp::Give_iTargetWeaponsTo_iClient
+L 06/18/2025 - 07:31:03: [SM] Exception reported: Entity -1 (84) is invalid
+L 06/18/2025 - 07:31:03: [SM] Blaming: bot2player_public.smx
+L 06/18/2025 - 07:31:03: [SM] Call stack trace:
+L 06/18/2025 - 07:31:03: [SM]   [0] SetEntPropEnt
+L 06/18/2025 - 07:31:03: [SM]   [1] Line 1010, D:\MY_PLUGINS\include\smlib/clients.inc::Client_SetActiveWeapon
+L 06/18/2025 - 07:31:03: [SM]   [2] Line 378, D:\MY_PLUGINS\bot2player_public.sp::Give_iTargetWeaponsTo_iClient
+L 06/18/2025 - 09:19:05: Error log file session closed.
+L 06/18/2025 - 09:19:05: SourceMod error session started
+L 06/18/2025 - 09:19:05: Info (map "cs_assault") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250618.log")
+L 06/18/2025 - 09:19:05: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/18/2025 - 09:19:05: [admin-flatfile.smx]  (line 10) Section declared without header
+L 06/18/2025 - 09:21:18: [SM] Exception reported: Entity -1 (182) is invalid
+L 06/18/2025 - 09:21:18: [SM] Blaming: bot2player_public.smx
+L 06/18/2025 - 09:21:18: [SM] Call stack trace:
+L 06/18/2025 - 09:21:18: [SM]   [0] SetEntPropEnt
+L 06/18/2025 - 09:21:18: [SM]   [1] Line 1010, D:\MY_PLUGINS\include\smlib/clients.inc::Client_SetActiveWeapon
+L 06/18/2025 - 09:21:19: [SM]   [2] Line 378, D:\MY_PLUGINS\bot2player_public.sp::Give_iTargetWeaponsTo_iClient
+L 06/18/2025 - 09:22:01: [SM] Exception reported: Entity -1 (191) is invalid
+L 06/18/2025 - 09:22:01: [SM] Blaming: bot2player_public.smx
+L 06/18/2025 - 09:22:01: [SM] Call stack trace:
+L 06/18/2025 - 09:22:02: [SM]   [0] SetEntPropEnt
+L 06/18/2025 - 09:22:02: [SM]   [1] Line 1010, D:\MY_PLUGINS\include\smlib/clients.inc::Client_SetActiveWeapon
+L 06/18/2025 - 09:22:02: [SM]   [2] Line 378, D:\MY_PLUGINS\bot2player_public.sp::Give_iTargetWeaponsTo_iClient
+L 06/18/2025 - 09:24:11: [SM] Exception reported: Entity -1 (153) is invalid
+L 06/18/2025 - 09:24:11: [SM] Blaming: bot2player_public.smx
+L 06/18/2025 - 09:24:11: [SM] Call stack trace:
+L 06/18/2025 - 09:24:11: [SM]   [0] SetEntPropEnt
+L 06/18/2025 - 09:24:11: [SM]   [1] Line 1010, D:\MY_PLUGINS\include\smlib/clients.inc::Client_SetActiveWeapon
+L 06/18/2025 - 09:24:11: [SM]   [2] Line 378, D:\MY_PLUGINS\bot2player_public.sp::Give_iTargetWeaponsTo_iClient

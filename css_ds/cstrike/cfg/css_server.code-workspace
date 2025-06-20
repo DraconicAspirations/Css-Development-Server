@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"sourcepawnLanguageServer.sourcemod_home": "c:/MyPrograms/steamcmd/css_ds/cstrike/addons/sourcemod/scripting/include"
+	}
+}

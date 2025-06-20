@@ -1,0 +1,8 @@
+// base cycle 
+fy_snow_07
+de_rats_rc_1337v4
+de_mirage_csgo
+cs_compound // last map, should be something new
+
+// before dreamclaw joins
+// de_dust2

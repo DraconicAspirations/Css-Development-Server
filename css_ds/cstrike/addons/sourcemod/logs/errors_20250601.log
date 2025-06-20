@@ -1,0 +1,66 @@
+L 06/01/2025 - 02:09:14: SourceMod error session started
+L 06/01/2025 - 02:09:14: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250601.log")
+L 06/01/2025 - 02:09:14: [SM] Exception reported: Entity -1 (64) is invalid
+L 06/01/2025 - 02:09:14: [SM] Blaming: bot2player_public.smx
+L 06/01/2025 - 02:09:14: [SM] Call stack trace:
+L 06/01/2025 - 02:09:14: [SM]   [0] SetEntPropEnt
+L 06/01/2025 - 02:09:14: [SM]   [1] Line 1010, D:\MY_PLUGINS\include\smlib/clients.inc::Client_SetActiveWeapon
+L 06/01/2025 - 02:09:14: [SM]   [2] Line 378, D:\MY_PLUGINS\bot2player_public.sp::Give_iTargetWeaponsTo_iClient
+L 06/01/2025 - 02:14:03: [SM] Exception reported: Entity -1 (75) is invalid
+L 06/01/2025 - 02:14:03: [SM] Blaming: bot2player_public.smx
+L 06/01/2025 - 02:14:03: [SM] Call stack trace:
+L 06/01/2025 - 02:14:03: [SM]   [0] SetEntPropEnt
+L 06/01/2025 - 02:14:03: [SM]   [1] Line 1010, D:\MY_PLUGINS\include\smlib/clients.inc::Client_SetActiveWeapon
+L 06/01/2025 - 02:14:03: [SM]   [2] Line 378, D:\MY_PLUGINS\bot2player_public.sp::Give_iTargetWeaponsTo_iClient
+L 06/01/2025 - 02:14:11: [SM] Exception reported: Entity -1 (72) is invalid
+L 06/01/2025 - 02:14:11: [SM] Blaming: bot2player_public.smx
+L 06/01/2025 - 02:14:11: [SM] Call stack trace:
+L 06/01/2025 - 02:14:11: [SM]   [0] SetEntPropEnt
+L 06/01/2025 - 02:14:11: [SM]   [1] Line 1010, D:\MY_PLUGINS\include\smlib/clients.inc::Client_SetActiveWeapon
+L 06/01/2025 - 02:14:11: [SM]   [2] Line 378, D:\MY_PLUGINS\bot2player_public.sp::Give_iTargetWeaponsTo_iClient
+L 06/01/2025 - 02:15:48: [SM] Exception reported: Entity -1 (76) is invalid
+L 06/01/2025 - 02:15:48: [SM] Blaming: bot2player_public.smx
+L 06/01/2025 - 02:15:48: [SM] Call stack trace:
+L 06/01/2025 - 02:15:48: [SM]   [0] SetEntPropEnt
+L 06/01/2025 - 02:15:48: [SM]   [1] Line 1010, D:\MY_PLUGINS\include\smlib/clients.inc::Client_SetActiveWeapon
+L 06/01/2025 - 02:15:49: [SM]   [2] Line 378, D:\MY_PLUGINS\bot2player_public.sp::Give_iTargetWeaponsTo_iClient
+L 06/01/2025 - 02:17:25: [SM] Exception reported: Entity -1 (71) is invalid
+L 06/01/2025 - 02:17:25: [SM] Blaming: bot2player_public.smx
+L 06/01/2025 - 02:17:25: [SM] Call stack trace:
+L 06/01/2025 - 02:17:25: [SM]   [0] SetEntPropEnt
+L 06/01/2025 - 02:17:25: [SM]   [1] Line 1010, D:\MY_PLUGINS\include\smlib/clients.inc::Client_SetActiveWeapon
+L 06/01/2025 - 02:17:25: [SM]   [2] Line 378, D:\MY_PLUGINS\bot2player_public.sp::Give_iTargetWeaponsTo_iClient
+L 06/01/2025 - 02:20:01: [SM] Exception reported: Entity -1 (81) is invalid
+L 06/01/2025 - 02:20:01: [SM] Blaming: bot2player_public.smx
+L 06/01/2025 - 02:20:01: [SM] Call stack trace:
+L 06/01/2025 - 02:20:01: [SM]   [0] SetEntPropEnt
+L 06/01/2025 - 02:20:01: [SM]   [1] Line 1010, D:\MY_PLUGINS\include\smlib/clients.inc::Client_SetActiveWeapon
+L 06/01/2025 - 02:20:01: [SM]   [2] Line 378, D:\MY_PLUGINS\bot2player_public.sp::Give_iTargetWeaponsTo_iClient
+L 06/01/2025 - 02:21:17: [SM] Exception reported: Entity -1 (75) is invalid
+L 06/01/2025 - 02:21:17: [SM] Blaming: bot2player_public.smx
+L 06/01/2025 - 02:21:17: [SM] Call stack trace:
+L 06/01/2025 - 02:21:17: [SM]   [0] SetEntPropEnt
+L 06/01/2025 - 02:21:17: [SM]   [1] Line 1010, D:\MY_PLUGINS\include\smlib/clients.inc::Client_SetActiveWeapon
+L 06/01/2025 - 02:21:17: [SM]   [2] Line 378, D:\MY_PLUGINS\bot2player_public.sp::Give_iTargetWeaponsTo_iClient
+L 06/01/2025 - 02:21:49: [SM] Exception reported: Entity -1 (122) is invalid
+L 06/01/2025 - 02:21:49: [SM] Blaming: bot2player_public.smx
+L 06/01/2025 - 02:21:49: [SM] Call stack trace:
+L 06/01/2025 - 02:21:49: [SM]   [0] SetEntPropEnt
+L 06/01/2025 - 02:21:49: [SM]   [1] Line 1010, D:\MY_PLUGINS\include\smlib/clients.inc::Client_SetActiveWeapon
+L 06/01/2025 - 02:21:49: [SM]   [2] Line 378, D:\MY_PLUGINS\bot2player_public.sp::Give_iTargetWeaponsTo_iClient
+L 06/01/2025 - 02:23:39: [SM] Exception reported: Entity -1 (77) is invalid
+L 06/01/2025 - 02:23:39: [SM] Blaming: bot2player_public.smx
+L 06/01/2025 - 02:23:39: [SM] Call stack trace:
+L 06/01/2025 - 02:23:39: [SM]   [0] SetEntPropEnt
+L 06/01/2025 - 02:23:39: [SM]   [1] Line 1010, D:\MY_PLUGINS\include\smlib/clients.inc::Client_SetActiveWeapon
+L 06/01/2025 - 02:23:39: [SM]   [2] Line 378, D:\MY_PLUGINS\bot2player_public.sp::Give_iTargetWeaponsTo_iClient
+L 06/01/2025 - 02:27:13: [SM] Exception reported: Entity -1 (141) is invalid
+L 06/01/2025 - 02:27:13: [SM] Blaming: bot2player_public.smx
+L 06/01/2025 - 02:27:13: [SM] Call stack trace:
+L 06/01/2025 - 02:27:13: [SM]   [0] SetEntPropEnt
+L 06/01/2025 - 02:27:13: [SM]   [1] Line 1010, D:\MY_PLUGINS\include\smlib/clients.inc::Client_SetActiveWeapon
+L 06/01/2025 - 02:27:13: [SM]   [2] Line 378, D:\MY_PLUGINS\bot2player_public.sp::Give_iTargetWeaponsTo_iClient
+L 06/01/2025 - 12:18:25: SourceMod error session started
+L 06/01/2025 - 12:18:25: Info (map "de_dust2") (file "C:\MyPrograms\steamcmd\css_ds\cstrike\addons\sourcemod\logs\errors_20250601.log")
+L 06/01/2025 - 12:18:25: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/01/2025 - 12:18:25: [admin-flatfile.smx]  (line 10) Section declared without header
